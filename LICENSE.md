@@ -1,1 +1,1 @@
-All rights belong to me, and no one is permitted to publish or use the program in another project without my consent.
+All rights and publishing belong to me. I permit anyone to use this tool for personal use only. Anyone wishing to develop and distribute it must contact me and obtain my permission.
