@@ -44,5 +44,5 @@ A powerful, open-source tool built with Python and PyQt6. It pushes PC hardware 
 - Instant STOP button.
 - Responsive frameless window with edge-resizing.
 
----
 
+Note: All rights and publishing belong to me. I permit anyone to use this tool for personal use only. Anyone wishing to develop and distribute it must contact me and obtain my permission.
